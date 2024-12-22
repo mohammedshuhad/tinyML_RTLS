@@ -1,6 +1,8 @@
 # tinyML_RTLS
 The project uses motion recognition and BLE-based location tracking to enhance workflow efficiency and patient care in hospitals. By monitoring the activity and location of healthcare professionals, it helps optimize resource utilization, improve response times, and ensure staff safety.
 
+![System](idea.png)
+
 ## System Overview
 This system tracks the motion of doctors and nurses using accelerometers and their location using BLE technology, combining TinyML inference on personnel tags with BLE communication for location detection. The real-time data provides valuable insights for:
 
